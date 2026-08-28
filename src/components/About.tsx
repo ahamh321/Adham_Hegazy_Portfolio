@@ -4,7 +4,7 @@ import { soundManager } from '../utils/audio';
 
 export const About: React.FC = () => {
   const [portraitSrc] = useState<string>(() => {
-    return (typeof window !== 'undefined' && localStorage.getItem('user_portrait')) || 'src/assets/images/me.png';
+    return (typeof window !== 'undefined' && localStorage.getItem('user_portrait')) || '/assets/images/me.png';
   });
   const pillars = [
     {
