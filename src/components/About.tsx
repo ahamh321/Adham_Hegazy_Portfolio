@@ -1,11 +1,13 @@
 import React, { useState } from 'react';
 import { Layers, Sparkles, Terminal, Cpu } from 'lucide-react';
 import { soundManager } from '../utils/audio';
+import defaultPortrait from '../assets/me.png'; // Bundler processes the image file
 
 export const About: React.FC = () => {
   const [portraitSrc] = useState<string>(() => {
-    return (typeof window !== 'undefined' && localStorage.getItem('user_portrait')) || './assets/me.png';
+    return (typeof window !== 'undefined' && localStorage.getItem('user_portrait')) || defaultPortrait;
   });
+  
   const pillars = [
     {
       icon: Terminal,
