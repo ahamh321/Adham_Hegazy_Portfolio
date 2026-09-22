@@ -1,933 +1,131 @@
-%PDF-1.3
-%ºß¬à
-3 0 obj
-<</Type /Page
-/Parent 1 0 R
-/Resources 2 0 R
-/MediaBox [0 0 612. 792.]
-/Annots [
-<</Type /Annot /Subtype /Link /Rect [398.2500000000001137 725. 431.1900000000001114 715.] /Border [0 0 0] /A <</S /URI /URI (https://www.linkedin.com/in/adham-hegazy-617a49220) >> >>
-<</Type /Annot /Subtype /Link /Rect [443.3400000000000887 725. 470.3400000000000887 715.] /Border [0 0 0] /A <</S /URI /URI (https://github.com/ahamh321) >> >>
-]
-/Contents 4 0 R
->>
-endobj
-4 0 obj
-<<
-/Length 8561
->>
-stream
-0.200025 w
-0 G
-BT
-/F10 18 Tf
-20.6999999999999993 TL
-0.059 g
-229.9499999999999886 746. Td
-(ADHAM HEGAZY) Tj
-ET
-BT
-/F10 11 Tf
-12.6499999999999986 TL
-0.157 g
-235.7649999999999864 731. Td
-(FULL STACK DEVELOPER) Tj
-ET
-BT
-/F9 9 Tf
-10.3499999999999996 TL
-0.196 g
-141.6599999999999397 717. Td
-(Alexandria, Egypt  •  +20 120 658 1308  •  adhamh502@gmail.com  •  ) Tj
-ET
-BT
-/F9 9 Tf
-10.3499999999999996 TL
-0. 0.4 0.8 rg
-398.2500000000001137 717. Td
-(LinkedIn) Tj
-ET
-0. 0.4 0.8 RG
-0.5 w
-398.2500000000001137 716. m
-431.1900000000001114 716. l
-S
-BT
-/F9 9 Tf
-10.3499999999999996 TL
-0.196 g
-431.1900000000001114 717. Td
-(  •  ) Tj
-ET
-BT
-/F9 9 Tf
-10.3499999999999996 TL
-0. 0.4 0.8 rg
-443.3400000000000887 717. Td
-(GitHub) Tj
-ET
-443.3400000000000887 716. m
-470.3400000000000887 716. l
-S
-BT
-/F10 10.5 Tf
-12.0749999999999993 TL
-0.078 g
-44. 699. Td
-(PROFESSIONAL SUMMARY) Tj
-ET
-0.16 G
-0.75 w
-44. 695. m
-568. 695. l
-S
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-44. 683. Td
-(Full stack developer with a Bachelor of Science in Computer and a strong foundation in full-stack development, specializing in scalable) Tj
-T* (web and mobile applications using React.js, Node.js, and Python. Experienced in designing clean architectures following SOLID) Tj
-T* (principles and best practices. Skilled in integrating AI/ML models including predictive analytics and deep learning using TensorFlow and) Tj
-T* (Keras. Capable of building end-to-end systems with focus on performance, scalability, and reliability.) Tj
-ET
-BT
-/F10 10.5 Tf
-12.0749999999999993 TL
-0.078 g
-44. 621. Td
-(EDUCATION) Tj
-ET
-0.16 G
-0.75 w
-44. 617. m
-568. 617. l
-S
-BT
-/F10 9.8 Tf
-11.2699999999999996 TL
-0.078 g
-44. 605. Td
-(Bachelor of Science in Computer Science - AAST) Tj
-ET
-BT
-/F9 9.8 Tf
-11.2699999999999996 TL
-0.078 g
-488.0319999999999823 605. Td
-(Sep 2021 – Jul 2025) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.157 g
-44. 593.5 Td
-(Arab Academy for Science, Technology & Maritime Transport \(AAST\)) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 582. Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 582. Td
-(GPA: 3.4 / 4.0 — Very Good with Honors) Tj
-ET
-BT
-/F10 10.5 Tf
-12.0749999999999993 TL
-0.078 g
-44. 552.5 Td
-(PROFESSIONAL EXPERIENCE) Tj
-ET
-0.16 G
-0.75 w
-44. 548.5 m
-568. 548.5 l
-S
-BT
-/F10 9.8 Tf
-11.2699999999999996 TL
-0.078 g
-44. 536.5 Td
-(Full Stack Developer — Accountants on Air) Tj
-ET
-BT
-/F9 9.8 Tf
-11.2699999999999996 TL
-0.078 g
-485.77800000000002 536.5 Td
-(Jul 2026 – Aug 2026) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 524.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 524.5 Td
-(Built ShieldOps, a cybersecurity incident-triage assistant for SOC analysts, using Next.js 14 \(App Router\), TypeScript, and Tailwind) Tj
-T* (CSS.) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 498.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 498.5 Td
-(Designed a resilient AI orchestration layer with the Vercel AI SDK, integrating Groq and Google Gemini with configurable) Tj
-T* (primary/fallback providers for incident-response generation.) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 472.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 472.5 Td
-(Enforced strict request/response validation with Zod and deterministic triage logic, and hardened the service around security-first) Tj
-T* (defaults: server-side-only API keys, no automatic containment/remediation, and stack-trace-free error responses.) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 446.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 446.5 Td
-(Covered core logic and API routes with a Vitest test suite and documented architecture, API contracts, and known limitations for) Tj
-T* (maintainability.) Tj
-ET
-BT
-/F10 9.8 Tf
-11.2699999999999996 TL
-0.078 g
-44. 417.5 Td
-(Mobile Developer Intern — Megatrust) Tj
-ET
-BT
-/F9 9.8 Tf
-11.2699999999999996 TL
-0.078 g
-482.6419999999999959 417.5 Td
-(Aug 2023 – Sep 2023) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 405.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 405.5 Td
-(Built a real-time, WebSocket-based location-tracking layer in Flutter/Dart for a live taxi-hailing app, giving riders and drivers) Tj
-T* (continuously updated ETAs during active trips.) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 379.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 379.5 Td
-(Integrated payment and geolocation APIs into production, then added response caching and request batching to cut down on redundant) Tj
-T* (network calls and speed up screen loads.) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 353.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 353.5 Td
-(Shipped 2 production-ready cross-platform apps \(iOS + Android\) from a single Flutter/Dart codebase, avoiding the cost of building) Tj
-T* (and maintaining separate native codebases.) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 327.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 327.5 Td
-(Refactored core modules around SOLID principles and worked peer code review into every two-week Agile sprint, catching) Tj
-T* (integration issues before release rather than after.) Tj
-ET
-BT
-/F10 10.5 Tf
-12.0749999999999993 TL
-0.078 g
-44. 286.5 Td
-(PROJECTS) Tj
-ET
-0.16 G
-0.75 w
-44. 282.5 m
-568. 282.5 l
-S
-BT
-/F10 9.8 Tf
-11.2699999999999996 TL
-0.078 g
-44. 270.5 Td
-(Themis — AI-Powered HR Management System) Tj
-ET
-BT
-/F11 9 Tf
-10.3499999999999996 TL
-0.235 g
-44. 260. Td
-(React.js, Python, TensorFlow, Keras, PHP, MongoDB) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 249.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 249.5 Td
-(Trained an employee-behavior prediction model in TensorFlow/Keras on historical HR data, using a documented train/test split to) Tj
-T* (validate performance before deployment.) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 223.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 223.5 Td
-(Designed a backend architecture built to support 10,000+ concurrent users with real-time alerting, using MongoDB and a) Tj
-T* (Node.js/PHP service layer.) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 197.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 197.5 Td
-(Automated candidate shortlisting workflows, replacing a fully manual recruitment screening process and freeing up HR team time for) Tj
-T* (higher-value review.) Tj
-ET
-BT
-/F10 9.8 Tf
-11.2699999999999996 TL
-0.078 g
-44. 169. Td
-(Promobot — Retail Robot Fleet Platform) Tj
-ET
-BT
-/F11 9 Tf
-10.3499999999999996 TL
-0.235 g
-44. 158.5 Td
-(React, TypeScript, Node.js, Express, Vite, JWT, REST APIs) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 148. Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 148. Td
-(Built a React + TypeScript frontend with protected routes and lazy loading, serving separate, purpose-built dashboards for admin and) Tj
-T* (retail users.) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 122. Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 122. Td
-(Secured all REST API traffic by implementing JWT authentication and role-based access control across a Node.js/Express backend.) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 107.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 107.5 Td
-(Built an end-to-end campaign-creation and approval workflow, letting fleet operators deploy a product promotion to a specific robot) Tj
-T* (without engineering involvement.) Tj
-ET
-BT
-/F10 9.8 Tf
-11.2699999999999996 TL
-0.078 g
-44. 79. Td
-(Deep Convolutional GAN for Face Generation) Tj
-ET
-BT
-/F11 9 Tf
-10.3499999999999996 TL
-0.235 g
-44. 68.5 Td
-(Python, TensorFlow, Keras) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 58. Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 58. Td
-(Trained a DCGAN on 200,000+ images to generate high-quality synthetic faces, applying targeted data augmentation to improve) Tj
-T* (generalization and managing the full model lifecycle from training through evaluation.) Tj
-ET
-BT
-/F10 9.8 Tf
-11.2699999999999996 TL
-0.078 g
-44. 29.5 Td
-(GoShop — E-Commerce Marketplace) Tj
-ET
-BT
-/F11 9 Tf
-10.3499999999999996 TL
-0.235 g
-44. 19. Td
-(React.js, Node.js, REST APIs) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 8.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 8.5 Td
-(Built reusable React components for product listings and cart management, reducing duplicated UI code across new features and) Tj
-T* (improving overall usability.) Tj
-ET
-endstream
-endobj
-5 0 obj
-<</Type /Page
-/Parent 1 0 R
-/Resources 2 0 R
-/MediaBox [0 0 612. 792.]
-/Contents 6 0 R
->>
-endobj
-6 0 obj
-<<
-/Length 2711
->>
-stream
-0.75 w
-0.16 G
-BT
-/F10 10.5 Tf
-12.0749999999999993 TL
-0.078 g
-44. 734. Td
-(TECHNICAL SKILLS) Tj
-ET
-0.16 G
-0.75 w
-44. 730. m
-568. 730. l
-S
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 718. Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 718. Td
-(Core CS: Data Structures & Algorithms, OOP, Design Patterns, SOLID Principles, System Design, Clean Code) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 703.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 703.5 Td
-(Languages: Python, JavaScript, TypeScript, Java, C++, C#, C, Dart) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 689. Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 689. Td
-(Web: React.js, Node.js, REST APIs, HTML5, CSS3, PHP) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 674.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 674.5 Td
-(Mobile: Flutter, React Native) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 660. Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 660. Td
-(Data: MongoDB, MySQL, PostgreSQL) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 645.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 645.5 Td
-(AI/ML: TensorFlow, Keras, scikit-learn, Deep Learning, LLM API integration \(OpenAI, Anthropic\)) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 631. Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 631. Td
-(Tools: Git, Agile/Scrum, Code Review, CI basics) Tj
-ET
-BT
-/F10 10.5 Tf
-12.0749999999999993 TL
-0.078 g
-44. 598.5 Td
-(CERTIFICATIONS) Tj
-ET
-0.16 G
-0.75 w
-44. 594.5 m
-568. 594.5 l
-S
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 582.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 582.5 Td
-(React Basics — Meta) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 568. Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 568. Td
-(AI in Applications — Accountants on Air) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 553.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 553.5 Td
-(Flutter & Dart Mobile Developer — Megatrust) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 539. Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 539. Td
-(Digital Transformation & Data Literacy — SAS) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-46. 524.5 Td
-(•) Tj
-ET
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-56. 524.5 Td
-(AI Career Essentials — ALX Arabia) Tj
-ET
-BT
-/F10 10.5 Tf
-12.0749999999999993 TL
-0.078 g
-44. 492. Td
-(LANGUAGES) Tj
-ET
-0.16 G
-0.75 w
-44. 488. m
-568. 488. l
-S
-BT
-/F9 9.5 Tf
-10.9249999999999989 TL
-0.118 g
-44. 476. Td
-(Arabic: Native  •  English: Fluent  •  French: Intermediate) Tj
-ET
-endstream
-endobj
+%PDF-1.4
+%ï¿½ï¿½ï¿½ï¿½ ReportLab Generated PDF document (opensource)
 1 0 obj
-<</Type /Pages
-/Kids [3 0 R 5 0 R ]
-/Count 2
->>
-endobj
-7 0 obj
 <<
-/Type /Font
-/BaseFont /Helvetica
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-8 0 obj
-<<
-/Type /Font
-/BaseFont /Helvetica-Bold
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-9 0 obj
-<<
-/Type /Font
-/BaseFont /Helvetica-Oblique
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-10 0 obj
-<<
-/Type /Font
-/BaseFont /Helvetica-BoldOblique
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-11 0 obj
-<<
-/Type /Font
-/BaseFont /Courier
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-12 0 obj
-<<
-/Type /Font
-/BaseFont /Courier-Bold
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-13 0 obj
-<<
-/Type /Font
-/BaseFont /Courier-Oblique
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-14 0 obj
-<<
-/Type /Font
-/BaseFont /Courier-BoldOblique
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-15 0 obj
-<<
-/Type /Font
-/BaseFont /Times-Roman
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-16 0 obj
-<<
-/Type /Font
-/BaseFont /Times-Bold
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-17 0 obj
-<<
-/Type /Font
-/BaseFont /Times-Italic
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-18 0 obj
-<<
-/Type /Font
-/BaseFont /Times-BoldItalic
-/Subtype /Type1
-/Encoding /WinAnsiEncoding
-/FirstChar 32
-/LastChar 255
->>
-endobj
-19 0 obj
-<<
-/Type /Font
-/BaseFont /ZapfDingbats
-/Subtype /Type1
-/FirstChar 32
-/LastChar 255
->>
-endobj
-20 0 obj
-<<
-/Type /Font
-/BaseFont /Symbol
-/Subtype /Type1
-/FirstChar 32
-/LastChar 255
+/F1 2 0 R /F2 3 0 R /F3 8 0 R
 >>
 endobj
 2 0 obj
 <<
-/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
-/Font <<
-/F1 7 0 R
-/F2 8 0 R
-/F3 9 0 R
-/F4 10 0 R
-/F5 11 0 R
-/F6 12 0 R
-/F7 13 0 R
-/F8 14 0 R
-/F9 15 0 R
-/F10 16 0 R
-/F11 17 0 R
-/F12 18 0 R
-/F13 19 0 R
-/F14 20 0 R
->>
-/XObject <<
->>
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
-21 0 obj
+3 0 obj
 <<
-/Producer (jsPDF 4.2.1)
-/CreationDate (D:20260828152955-00'00')
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
-22 0 obj
+4 0 obj
 <<
-/Type /Catalog
-/Pages 1 0 R
-/OpenAction [3 0 R /FitH null]
-/PageLayout /OneColumn
+/A <<
+/S /URI /Type /Action /URI (mailto:adhamh502@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 277.2405 697.2 374.9085 708 ] /Subtype /Link /Type /Annot
 >>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.linkedin.com/in/adham-hegazy-617a49220)
+>> /Border [ 0 0 0 ] /Rect [ 383.0625 697.2 417.0825 708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/ahamh321)
+>> /Border [ 0 0 0 ] /Rect [ 425.2365 697.2 453.2445 708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://adham-hegazy-portfolio.vercel.app/)
+>> /Border [ 0 0 0 ] /Rect [ 461.3985 697.2 494.4105 708 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R ] /Contents 14 0 R /MediaBox [ 0 0 612 792 ] /Parent 13 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Contents 15 0 R /MediaBox [ 0 0 612 792 ] /Parent 13 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/PageMode /UseNone /Pages 13 0 R /Type /Catalog
+>>
+endobj
+12 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260922095243+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922095243+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+13 0 obj
+<<
+/Count 2 /Kids [ 9 0 R 10 0 R ] /Type /Pages
+>>
+endobj
+14 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3055
+>>
+stream
+Gau`UD-PaU')gZo0q\05H]rt#'&\5m'N3(*'J;th]D(9B@OmHkZK4\:OT"j!7WMf`0Bj6u[koA8jjE:*B$M8+d11ULs#\>ZhMl7HI7-q+j!dF/SR!/+dW#-Hl^Ogj\U2\[BeSma33IG!39p/IW"VZ+rLJB%F:W>!O)4LoVP9o0fZ@P^VKdkJa51^@fBYi:\3!H"CN/oSE(1q(a+HVUrKbHQdeN:\?692$I`KdDT"rn78PJ+C[o5eTWM@Nf.eZg0pH/7l\(==Qrq#A'NQ-UgO*!5V1-@_7(gaA8\2X,$2u3ag+SVc$o$mX::3Z`2Grj0p&0J,4SZ`"ei8%uF7*@YhUfN<f%C:=_d8dQ_8&#&?#d8\qT;!q\pK,&7:N$GSM0(*8=`5\e8!XOZ4,M(s1XC=8SYf1_E@oY'ijJ+nX6N&8GqEeJ``?$5Q!*P<]a]6r48]%fI.o_9<LE;h"PQ%Xp"%+Dq>9,aFE7@pJ.VU*FuHj8`qNDq7q(tEDXmSj8LH-Oh\?(+S9e&Ae&Nh1UW6(%%X'a@8[#U*!CF+q5h@[IIB>B;8gN#Qar@<S.4sAUC.<g3M.D>kQHYR_M3::O8JQ>\o!5DPCiKo(N7"f6VT<Fcl66t.1'N`0_L26Pq-4\8CB;hK.qPH.<rZ$A']WIC[$YMu[rUKqk%:@W<Ks=\M)Xb!G!,V!MPTP8l!!`$UsabN#;5/hbS2'9hI._e^Q]2*d]'>+k7T@8Z#i7`A>UiE<4.u$c>.97H.;'Uo]1g#X,9<1)RnAm7(N`W0X"*Eld4j!BcZQ@U6:puK6VQYZ@-m'cVpe`DBuegq/U1\Wpo53>g6R\4bp:M5*`E!G\=^^@?k>*3+Lj`.mN*iZiUm_MUJ8QNLA9gHh4O6gQcL5NSN;h13\Y)S=66sA6+Tm1/h\(!H;3Oj@ZIf*Y>\VX6)b3q,m(XG?ue^L.@jH#@liBL)G?O=3R7b`$W*UaW5jg\EmpMB>l:n8<R=Ucp>`&^HV\i>"6rkpZBq)*:M9_0H*047CUI35O([&GRsOqr<4cqQa@G\J$/:$&;0LJ*3g<.qQ8?HXg]jbpC&_RqYegTMS"p/(^C9^<8%3kT*A=iBTS$Lk&Wr^&ucYp,FK99RqtiLUGH=YV/f.;.gf@0)X(poEP-V0+f]_Z*dA$#dU;k^^@b33T(:IAkhb(a`Sag"fVNH=mHfKhr?CX!Nf?UtApuFfZ0lnhG5(]Z$<I]:"VGi3r,apR1k5GW$+JZIs.Y/cK-FpA,!2^<6:DX_i=KR,B"iX&MbFiu9S$&Gr)NjKH>*^Q?cNC)8ATaG_$^ef3-1@9lZSoH^tndZDFIf#rKdYq#;pHVgd3cJn"g3^V7!6IA3c^F3Z'HR`jo)lqk>(_)f.+A[6i?A.'d#a(G;ciRki_%r]*lEWd''9<3kSd,>[6^R+aS-Y-0h*FWap_kTj0@FV"kJWgP]b1iTbjFDk@kf#CF0=).6-QP(84Xh3J;%);Sq-29>*$&#LU"t\$g`O2D,5fD_#$^Ne8+u+Z'n"`YlmP%uNKnIfs?HV9s$P5J7+KZt+j\NIg\&!.gU:pl,;gGKt33/"cJC-thTV<c!TGVKTT(D+oX#SsD_4u\/$u5)Z<scZ28$LdM+>k'_"a<h/95K'W/2WW`YEVcnE%G1s.?DZh9tSf"ZqA(aRZA&iOI)!`B-/+KMYRq22gQ*R>2FXs)9qFp",+nW;i!\D6Tjq&;E:__7J-2c"^RX+XI@FS_+Ha./b)pe[F0h,c!Eij6&`89r;7a4%$(B.UQ!3q1f!QNDF,j;G^ZsUZ.L='@l'ql%QeSaP&_g4\lnEdW+!mgQ<9M*11Xu.i?ln:U/CQb[FDm$$?(N3"Vt/PLt`R$k?)g&4:!_>C9'o,"F`3AJ6l?&[0XQE"I:7"A\-GBj#pQR_Y*V3,HecC5@Cne6::Zm<q@otaSUCmCtXDP9X#B<o,Pr%)CYL_:lpZKD!5YbXPe"]U*/LpLCV$j$s,9S.B1efP#Ij5q*ZE]P8_9X&X+V<ic^$#c9cLVik\:6o0`(cS)^FW:"gt?a.4XU#/OH.FD7-5Y26<"h=8.BUVs1<$7S+R8u'd-;%lD<+ti:HeBop=+g@'h`Z;GkboUN9i.O?!1N^/cOG"D@`Gkl5Qh>,<2%LWHI;Ia*H&o*'l5'YMRj%<_-"o^B8(VP5<+R3PM6@=;8,:f/$EYZqb:")a^th$^o5YN&?"o\_Og?gQ[0a%UU#Bdmp<^,kn,bL]iW7cb)E;Reh7F8&2<Q#%Y<S]N"32W!(^jD"H%qFOXPAnpYZN7]1Vcc>)eKgnq%RC/gJ)@iVolRX-E!ThQ2B*mQaZ8]($#Ish;I:GY2pXc=VqcoAPe[I/Wd/hncT2YF.'&*n9PH);M&9mM/5tiPU*@gbK@)t=Q--o)"$e+I[D/pXA>^E5!<Z;AR;7q**]"SHr1V#cM1bL`g6\>8SVQga8+FT:Wj\b:fnGjm!`6-gXQmm<]TeN3,df$bQ/eQpjEAld9ciMP)/sa<U4]AcHTAmE<6hj&U<;/Acb$2<Bj4hrI/DR@.+?QU#CWA@#(W0l)p%bfBb[s%T2sJ1cKt*\0_R=k-K^VrDQH\-FoFBHQjF28Xgh:I)`B%DQ4rraa7;p5^E5tfK^4(=Q!+(mSnOfMXS1$Z><C8DYUOI"`I]4Um>3dkG(rj[Ab1p\h6i`,U5'p[]W!,lAlRgU6HTq'7K_X6ZpgVJ%/L93G4aUUJ.*[6C_U>#VZte'Y62Y4_R(nBe!7Z2q9]u)YJ(KkY!F#6kq=p(KXZgKTN)_Dbq7[8\r&nXDX$2L)&P.:KL/UY=imB.N4,eLia;&q`Ctl&nFI7_NT3R!Do4UTpr`o75%j7=Y,>^K6gAW,Pm)u7;@fS+_dk*jF"HI*0AJ?!fVI7%S;ng)[uF2c/]et!lO[5@c+IMAW4Ac=UO"Mias$i['7"GVr"3@qD+Qn6"ro%QDHbM=T6h+'B.uLn\!s'HkOQaq^j=:Pe7G+LUr6n!+F9hQ1C@J)-92G(=rK]O=VSlWFYe-(="*$BHjA@Lm;-F'>i!3k!=cRfUZI^^'0AMr"nd9"`O~>endstream
+endobj
+15 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2299
+>>
+stream
+Gau0Dd<=57&q0LUe2_m$*7"h*KE.LS&W@_c@!diEB-6]mD@4c)8Zc^7n1n@c[p+@rRohi\Nal;#7B>_)Xa@)TW.hFjs-+t[LPS\Y!t*`r/L]hQF=<U)-p%5%.+m>.l(>?I/8X?iXI]R^T\Je]8NZ/1>3Bu?p9AR+-9f:I_/B#(8XH.cHabF0gbj7>GC(FhhVEPt%AVU['`CJJ^YQeVa4JcF[a1rY#5!H7:Z$Tih:5Bbhj@;##Z#cV8nbYW9>&Gdq+[NU$Sr&oBKk(7$Pdkes%Q2-d?7F.d-!;R)N:/pqLK+%l/NdY74)J=3O:PH(REO:F6`FF)\>C:O.Q?"$=\>i@S$G,L2E"1*=HRWr[Jh.]=(A'2(7Icd,m+2%h8ApNGsCDGh\mjc=24lTdI##fe[/j%L&=GDUAd!;1&JlkMY^NDgtI<r/-G0)/p3+ELJ8$c.otpV-#0`-jP>r>,=#Iopc[nfiKVmq@!XZ>cPYUUSLF#hK**oK??Ml0aX:a=ZYnp^<Q)u\n@U</h@`_U+BGA/!26mOXXqLcmBKqA@cDY1<nJUju,6!5q)(A*h`ro<9td&HQg.CL+=L8b-JB#U:W'Yi_q8J4P.T)S;gRMoo>inA8."_?!4B\kX!lJ)&>fmWg$(#Cb.j*@eGBWa20urXoUXEF:+TNG$-9PP)(ub3\5m@n5p)kX&Du3:(krS"Y5m03WT=f%M.9@=b%G6[R&GsX@TQDP@RB9C'fb7QDRX42e4'@F67A_NL!f`jK`*"dB/]0%LhjLZ:N(^#?H@rnWHT[]I=_&XqX+M+jp]<,1"iPrRMK.cE5Kn^=TgAS3+/G-$8<O/e_hi[u%>Lb:eY$4Zbm(hEYW&3R=Ku3Nb=-C!c'nB]]@4rrI*Yo]a]#6$K),7"a66;%m@#%D(hWmi"JUApX2Od&=[5>_!$m?bd'$BqV!D,rELQ,SC'X.FDVmgW-c,kYc@PN,\%CV9*i\-$)l8EG-t^jh2FA??c[2GmZ]UgR5'b^.W64e8;rd>Kn!Oi=mV1G"!RQjC4f.h60C9RD"0^/5\G@V-U[!;L!3T3TpVAMSa3TI4%=1/6;;hB\-?J*4D$9iP\dJC,58M_`+=kbU8l=X_t_U99J?<P1tXJ4Q\#30EL"DPF)P#CcrsMhea:W+^d[V`\0S0]OP9"?FfB$^Ct/S&VhQCW>rjr2m&ho.#(Q-=<\]n[E;N2=n+#TVfU_NX"KsLm7d50`u_(&e<gS6fFI($eF*./$QYXB%B_j60*OJrMDLSPr_aD2YB:t5q<eem'0u<s*O?\hk[Na`6##)UNUNk]j'L\:*EO)_2iHhU0HXlX<3.lt&"87h!"tG#C*dXsD(A<(:28PioB=)'m-674"@>&!M7hM);?&bA1j,RjheC3hoJUbhU)#<311;PJ.JX"C\dbAL08Z6Zq/,D!f&#k(S`%ONlq5Ti3j0N>e/[a1AHQsIL&&U:q)?&.:Y7n1H$QIEH.FME.I=a958c']EK@D*2C3L7lO7$s$tLkAS)L9N-7LVMVRn(.RtG[D/,$WoYUf\EoZ%eqc$:ha)*dK?[XdMV%'%Q%Wjt'@E5pR`MaocGf+97`Nl"#1'T>N!O4WFN?p_3W`fj!=OY@2*LHZ?*6$FE]^FaANDg@-+r%OYSpG%0:JRc8VMpon=;H@c:6A$Q'+iZ-5;"*NNVm:(.Vd!R]Rgc@(S&tGWDW)"%_3*Q25>Z7cCsXkEGhEY)I2Si(s#FXtRF+E5ETmUD:JP,JrZkNR3rsdn%D$Zbq<f8Pr!VCQ&T"QUp&)Af^G=;'q0l,$0/\'.5"=!m(ST)cTg'LJ"LmPbr6!rp)L]PNik'm$U>Cl(cX0&*=*<Wk5.A%'L>cgU-]$#MYX-b2m.UgJd"RGgj16S#n:t4Z0Ku%&p4Ta71Q+T"0?Q1=G*BHp_5&i+f7"X19W!8f<>a`UC-nW?a#?"kK5lMJRIe'raj7`QA.nfZMaU_rqqC(&Ta(cVb'o5..+<q><7KSA*q<]u8[qU&`bpD"K.6,*F;Koi+g'/ek.4#`KCa`]C=%<&()U]Z1VR!Lbm0;>2-*EHEL-GrC>J'jbKn0_E!2t&?<Jm?\G^);8mPnnEukg#%[<rLD,3OtCht&EJ`SleV+QTk7Oq6h+_D*d/Ds8lNB@I5_ddna@V'Q9^lY*%rkg_Q`4o9C3DkT<aE86[Cf&1,f&6WtEJMEhLdn/6E9CVkCs+p90+A=ZU`.CHFV!$?PJQqB++pUkh'_<d6[/!74D-m[*[(9-@r::'VGS+=N*X/Ap?+W,o8Ari1PrLoUthb.<u>89Ue+)V#B`aFZ2~>endstream
 endobj
 xref
-0 23
+0 16
 0000000000 65535 f 
-0000011956 00000 n 
-0000013781 00000 n 
-0000000015 00000 n 
-0000000475 00000 n 
-0000009088 00000 n 
-0000009193 00000 n 
-0000012019 00000 n 
-0000012144 00000 n 
-0000012274 00000 n 
-0000012407 00000 n 
-0000012545 00000 n 
-0000012669 00000 n 
-0000012798 00000 n 
-0000012930 00000 n 
-0000013066 00000 n 
-0000013194 00000 n 
-0000013321 00000 n 
-0000013450 00000 n 
-0000013583 00000 n 
-0000013685 00000 n 
-0000014031 00000 n 
-0000014117 00000 n 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000501 00000 n 
+0000000695 00000 n 
+0000000866 00000 n 
+0000001052 00000 n 
+0000001167 00000 n 
+0000001398 00000 n 
+0000001594 00000 n 
+0000001664 00000 n 
+0000001945 00000 n 
+0000002012 00000 n 
+0000005159 00000 n 
 trailer
 <<
-/Size 23
-/Root 22 0 R
-/Info 21 0 R
-/ID [ <F2ADC905325E8900BCEBC39F55AE869F> <F2ADC905325E8900BCEBC39F55AE869F> ]
+/ID 
+[<2989b4859b8cb1820b8fd6cdf3208511><2989b4859b8cb1820b8fd6cdf3208511>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 12 0 R
+/Root 11 0 R
+/Size 16
 >>
 startxref
-14221
+7550
 %%EOF

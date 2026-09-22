@@ -27,6 +27,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onReplayIntro }) => {
 
   const navLinks = [
     { label: 'About', href: '#about' },
+    { label: 'Experience', href: '#experience' },
     { label: 'Work', href: '#work' },
     { label: 'Certificates', href: '#certificates' },
     { label: 'Contact', href: '#contact' },

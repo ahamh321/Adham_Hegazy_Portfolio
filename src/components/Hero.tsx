@@ -197,7 +197,7 @@ export const Hero: React.FC = () => {
       {/* Bottom Continuous Visual Thread to About Section */}
       <div className="relative z-10 flex items-center justify-between pt-8 border-t border-neutral-200/80">
         <div className="flex items-center gap-3 text-xs font-mono uppercase tracking-widest text-neutral-400">
-          <span>01 / 05</span>
+          <span>01 / 06</span>
           <span className="w-12 h-[1px] bg-neutral-300"></span>
           <span>Traverse Continuous Experience</span>
         </div>

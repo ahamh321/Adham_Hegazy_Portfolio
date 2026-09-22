@@ -8,6 +8,7 @@ import { SplashScreen } from './components/SplashScreen';
 import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
 import { About } from './components/About';
+import { Experience } from './components/Experience';
 import { Work } from './components/Work';
 import { Certificates } from './components/Certificates';
 import { Contact } from './components/Contact';
@@ -61,23 +62,30 @@ export default function App() {
             </AnimatedSection>
           </div>
 
-          {/* 03: Selected Work Section */}
+          {/* 03: Current Employment & Experience Section */}
           <div className="max-w-7xl mx-auto px-4 sm:px-8">
-            <AnimatedSection id="work-section" sectionNumber="03" title="WORK">
+            <AnimatedSection id="experience-section" sectionNumber="03" title="EXPERIENCE">
+              <Experience />
+            </AnimatedSection>
+          </div>
+
+          {/* 04: Selected Work Section */}
+          <div className="max-w-7xl mx-auto px-4 sm:px-8">
+            <AnimatedSection id="work-section" sectionNumber="04" title="WORK">
               <Work />
             </AnimatedSection>
           </div>
 
-          {/* 04: Education & Certifications Section */}
+          {/* 05: Education & Certifications Section */}
           <div className="max-w-7xl mx-auto px-4 sm:px-8">
-            <AnimatedSection id="certificates-section" sectionNumber="04" title="CREDENTIALS">
+            <AnimatedSection id="certificates-section" sectionNumber="05" title="CREDENTIALS">
               <Certificates />
             </AnimatedSection>
           </div>
 
-          {/* 05: Contact Section */}
+          {/* 06: Contact Section */}
           <div className="max-w-7xl mx-auto px-4 sm:px-8">
-            <AnimatedSection id="contact-section" sectionNumber="05" title="CONNECT">
+            <AnimatedSection id="contact-section" sectionNumber="06" title="CONNECT">
               <Contact />
             </AnimatedSection>
           </div>

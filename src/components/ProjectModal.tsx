@@ -92,7 +92,7 @@ export const ProjectModal: React.FC<ProjectModalProps> = ({ project, onClose }) 
                 <OneLineArtwork type={project.artworkType} strokeWidth={1.8} />
               </div>
               <div className="w-full pt-4 mt-2 border-t border-neutral-100 flex items-center justify-between text-[11px] font-mono text-neutral-400">
-                <span>Vector Identity</span>
+                <span>Project Logo</span>
                 <span>Continuous Path</span>
               </div>
             </div>

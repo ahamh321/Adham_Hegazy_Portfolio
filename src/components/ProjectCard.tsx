@@ -119,7 +119,7 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({ project, index, onSele
             {/* Corner Badge */}
             <div className="absolute top-4 right-4 flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-white/80 border border-neutral-200/80 font-mono text-[10px] uppercase tracking-widest text-neutral-500">
               <span className="w-1.5 h-1.5 rounded-full bg-black/70"></span>
-              <span>Visual Contour</span>
+              <span>Project</span>
             </div>
 
             {/* Specialized One-Line Art Piece for Project */}

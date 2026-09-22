@@ -77,7 +77,7 @@ export const Contact: React.FC = () => {
       <div className="flex flex-col md:flex-row md:items-end justify-between mb-16 gap-6">
         <div>
           <div className="flex items-center gap-3 mb-3">
-            <span className="font-mono text-xs uppercase tracking-[0.25em] text-neutral-400">05 / CONTACT</span>
+            <span className="font-mono text-xs uppercase tracking-[0.25em] text-neutral-400">06 / CONTACT</span>
             <span className="w-10 h-[1px] bg-neutral-300"></span>
           </div>
           <h2 className="font-display font-bold text-4xl sm:text-6xl md:text-7xl text-neutral-900 tracking-tight">
